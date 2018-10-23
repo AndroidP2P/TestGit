@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
+        //add a file here !
 
 
         return super.onOptionsItemSelected(item);
