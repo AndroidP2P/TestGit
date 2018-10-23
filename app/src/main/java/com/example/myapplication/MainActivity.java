@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         //add a file here !
+        //版本1.4
 
         return super.onOptionsItemSelected(item);
     }
