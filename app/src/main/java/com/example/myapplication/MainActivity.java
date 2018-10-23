@@ -49,6 +49,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         Log.d("tass","hello");
+        Log.d("tass","dev");
+
 
         return super.onOptionsItemSelected(item);
     }
