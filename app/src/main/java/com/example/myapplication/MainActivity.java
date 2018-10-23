@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
+        //add a file here !
+        //版本1.4
 
         Log.d("tass","hello");
         Log.d("tass","dev");
