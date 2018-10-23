@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         //add a file here !
         //版本1.4
         //版本1.5
+        //修改了这个文件 by lhz
 
         return super.onOptionsItemSelected(item);
     }
