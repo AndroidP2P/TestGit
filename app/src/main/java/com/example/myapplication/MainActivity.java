@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
         //版本1.5
         //修改了这个文件 by lhz
         //添加了1.6
+        //添加了1.7
 
         return super.onOptionsItemSelected(item);
     }
